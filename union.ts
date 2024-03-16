@@ -54,3 +54,4 @@ let seatAllotment : "aisle"| "middle"| "window"
 seatAllotment = "middle"
 
 // seatAllotment = "crew" // this will give an error 
+export {}

@@ -1,5 +1,6 @@
-> This repository is created to store the typescript file while learning it.
+**This repository is created to store the typescript files while learning typescript**
 
+---
 ### It include Typescript topics as follows : 
 * Introduction
 * array
